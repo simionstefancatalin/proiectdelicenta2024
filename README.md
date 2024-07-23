@@ -15,4 +15,4 @@
 10. Modul buzzer;
 11. Modul alimentare externa 3.3-5V;
 
-  Se recomandă utilizarea Thonny IDE pe partea de MicroPython & Rapsberry Pi Pico W și Arduino IDE pe partea de C/C++ & Arduino IDE.
+  Se recomandă utilizarea Thonny IDE pe partea de MicroPython pentru programarea Rapsberry Pi Pico W și Arduino IDE pe partea de Arduino C/C++.
